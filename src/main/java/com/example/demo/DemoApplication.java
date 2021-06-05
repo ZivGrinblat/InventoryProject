@@ -36,7 +36,7 @@ public class DemoApplication {
 				"I 'ould like to receive your feedback even if I did not pass",
 				new springfox.documentation.service.Contact("Itzhak Tadela", "https://github.com/isaacTadela/spring-boot" , "iitzhakk@gmail.com"),
 				"API License",
-				"https://github.com/isaacTadela",
+				"https://github.com/ZivGrinblat",
 				Collections.emptyList()
 				);
 	}
